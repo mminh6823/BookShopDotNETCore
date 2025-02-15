@@ -1,0 +1,10 @@
+﻿
+@model IEnumerable<Product>
+@{
+    ViewData["Title"] = "Trang chủ";
+}
+
+<div>
+    <h1>Danh sách sản phẩm</h1>
+    <partial name="_ProductsGridPartial" model="Model" />
+</div>

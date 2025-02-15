@@ -1,0 +1,12 @@
+D:\.Net\BookShop\BookShopMVC.Utility\bin\Debug\net8.0\BookShopMVC.Utility.deps.json
+D:\.Net\BookShop\BookShopMVC.Utility\bin\Debug\net8.0\BookShopMVC.Utility.dll
+D:\.Net\BookShop\BookShopMVC.Utility\bin\Debug\net8.0\BookShopMVC.Utility.pdb
+D:\.Net\BookShop\BookShopMVC.Utility\obj\Debug\net8.0\BookShopMVC.Utility.csproj.AssemblyReference.cache
+D:\.Net\BookShop\BookShopMVC.Utility\obj\Debug\net8.0\BookShopMVC.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\BookShop\BookShopMVC.Utility\obj\Debug\net8.0\BookShopMVC.Utility.AssemblyInfoInputs.cache
+D:\.Net\BookShop\BookShopMVC.Utility\obj\Debug\net8.0\BookShopMVC.Utility.AssemblyInfo.cs
+D:\.Net\BookShop\BookShopMVC.Utility\obj\Debug\net8.0\BookShopMVC.Utility.csproj.CoreCompileInputs.cache
+D:\.Net\BookShop\BookShopMVC.Utility\obj\Debug\net8.0\BookShopMVC.Utility.dll
+D:\.Net\BookShop\BookShopMVC.Utility\obj\Debug\net8.0\refint\BookShopMVC.Utility.dll
+D:\.Net\BookShop\BookShopMVC.Utility\obj\Debug\net8.0\BookShopMVC.Utility.pdb
+D:\.Net\BookShop\BookShopMVC.Utility\obj\Debug\net8.0\ref\BookShopMVC.Utility.dll

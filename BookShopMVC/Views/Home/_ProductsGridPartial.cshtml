@@ -1,0 +1,58 @@
+﻿@model IEnumerable<Product>
+
+<div class="row pb-3 mt-3">
+    @foreach (var product in Model)
+    {
+        <div class="col-lg-3 col-sm-6">
+            <div class="row p-2">
+                <div class="col-12 p-1">
+                    <div class="card border-0 p-3 shadow border-top border-5 rounded">
+                        <div class="position-absolute d-flex flex-column ms-2 mt-2">
+                            @if (product.IsNew)
+                            {
+                                <span class="badge text-bg-primary">Mới</span>
+                            }
+                            @if (product.IsBestseller)
+                            {
+                                <span class="badge text-bg-danger mt-2">Bán chạy</span>
+                            }
+                            @if (product.IsSpecialOffer)
+                            {
+                                <span class="badge text-bg-success mt-2 ">Ưu đãi đặc biệt</span>
+                            }
+                        </div>
+
+                        <img src="/images/@product.ImageUrl" class="card-img-top" />
+
+
+
+                        <div class="card-body pb-0">
+                            <div class="pl-1">
+                                <p class="card-title mb-0 text-black opacity-75 text-center fs-5">@product.Title</p>
+                                <p class="card-title mb-0 text-secondary text-center fs-6">@product.Author</p>
+                            </div>
+                            <div class="pl-1">
+                                <p class="text-dark text-opacity-75 text-center mb-0 fs-5 mb-3"><strong>@product.Price.ToString("c")</strong></p>
+                            </div>
+                        </div>
+                        @if (User!.Identity!.IsAuthenticated)
+                        {
+                            <div class="d-flex flex-row">
+                                <button class="btn btn-secondary border-0 form-control w-25 me-1 shopping-cart-btn" data-id="@product.Id"><i class="bi bi-cart"></i></button>
+                                <a asp-controller="Home" asp-action="Details" asp-route-id="@product.Id" class="btn btn-primary border-0 form-control">Chi tiết</a>
+                            </div>
+
+                        }
+                        else
+                        {
+                            <div class="d-flex flex-row">
+                                <a asp-controller="Home" asp-action="Details" asp-route-id="@product.Id" class="btn btn-primary border-0 form-control">Chi tiết</a>
+                            </div>
+
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>

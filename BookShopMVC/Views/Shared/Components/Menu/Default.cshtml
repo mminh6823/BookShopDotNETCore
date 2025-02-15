@@ -1,0 +1,65 @@
+﻿@{
+    ViewData["Title"] = "Home";
+}
+
+@model IEnumerable<Category>
+<header>
+    <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-primary bg-dark text-white border-bottom box-shadow mb-5">
+        <div class="container-fluid">
+            <a class="navbar-brand text-white" asp-area="" asp-controller="Home" asp-action="Index">Book Shop</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                <ul class="navbar-nav me-auto">
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Thể loại
+                        </a>
+                        <ul class="dropdown-menu">
+                            @foreach (var category in Model.OrderBy(category => category.DisplayOrder))
+                            {
+                                <li><a asp-controller="Home" asp-action="Category" asp-route-id="@category.Id" class="dropdown-item">@category.Name</a></li>
+                            }
+                        </ul>
+                    </li>
+                    
+                    @if (User.IsInRole(StaticDetails.Role_Admin))
+                    {
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle text-white" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                Content Managment
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li>
+                                    <a class="dropdown-item" asp-controller="Category" asp-action="Index" asp-area="Admin">
+                                        Category
+                                    </a>
+                                </li>
+
+                                <li>
+                                    <a class="dropdown-item" asp-controller="Product" asp-action="Index" asp-area="Admin">
+                                        Product
+                                    </a>
+                                </li>
+                            </ul>
+                        </li>
+                    }
+
+                    @if (User.Identity.IsAuthenticated)
+                    {
+                        <li class="nav-item">
+                            <a asp-area="Customer" asp-controller="ShoppingCart" asp-action="Index" class="nav-link text-white position-relative">
+                                <i class="bi bi-cart-fill me-1 text-white"></i>
+                                Cart <span id="cart-amount"></span>
+                            </a>
+                        </li>
+                    }
+                    
+                </ul>
+                <partial name="_LoginPartial" />
+            </div>
+        </div>
+    </nav>
+</header>

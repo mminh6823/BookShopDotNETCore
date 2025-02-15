@@ -1,0 +1,17 @@
+D:\.Net\BookShop\BookShopMVC.DataAccess\obj\Debug\net8.0\BookShopMVC.DataAccess.csproj.AssemblyReference.cache
+D:\.Net\BookShop\BookShopMVC.DataAccess\obj\Debug\net8.0\BookShopMVC.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\BookShop\BookShopMVC.DataAccess\obj\Debug\net8.0\BookShopMVC.DataAccess.AssemblyInfoInputs.cache
+D:\.Net\BookShop\BookShopMVC.DataAccess\obj\Debug\net8.0\BookShopMVC.DataAccess.AssemblyInfo.cs
+D:\.Net\BookShop\BookShopMVC.DataAccess\obj\Debug\net8.0\BookShopMVC.DataAccess.csproj.CoreCompileInputs.cache
+D:\.Net\BookShop\BookShopMVC.DataAccess\bin\Debug\net8.0\BookShopMVC.DataAccess.deps.json
+D:\.Net\BookShop\BookShopMVC.DataAccess\bin\Debug\net8.0\BookShopMVC.DataAccess.dll
+D:\.Net\BookShop\BookShopMVC.DataAccess\bin\Debug\net8.0\BookShopMVC.DataAccess.pdb
+D:\.Net\BookShop\BookShopMVC.DataAccess\bin\Debug\net8.0\BookShopMVC.Model.dll
+D:\.Net\BookShop\BookShopMVC.DataAccess\bin\Debug\net8.0\BookShopMVC.Utility.dll
+D:\.Net\BookShop\BookShopMVC.DataAccess\bin\Debug\net8.0\BookShopMVC.Model.pdb
+D:\.Net\BookShop\BookShopMVC.DataAccess\bin\Debug\net8.0\BookShopMVC.Utility.pdb
+D:\.Net\BookShop\BookShopMVC.DataAccess\obj\Debug\net8.0\BookShop.CD4851A4.Up2Date
+D:\.Net\BookShop\BookShopMVC.DataAccess\obj\Debug\net8.0\BookShopMVC.DataAccess.dll
+D:\.Net\BookShop\BookShopMVC.DataAccess\obj\Debug\net8.0\refint\BookShopMVC.DataAccess.dll
+D:\.Net\BookShop\BookShopMVC.DataAccess\obj\Debug\net8.0\BookShopMVC.DataAccess.pdb
+D:\.Net\BookShop\BookShopMVC.DataAccess\obj\Debug\net8.0\ref\BookShopMVC.DataAccess.dll

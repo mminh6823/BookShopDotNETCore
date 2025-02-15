@@ -1,0 +1,15 @@
+D:\.Net\BookShop\BookShopMVC.Model\obj\Debug\net8.0\BookShopMVC.Model.csproj.AssemblyReference.cache
+D:\.Net\BookShop\BookShopMVC.Model\obj\Debug\net8.0\BookShopMVC.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\BookShop\BookShopMVC.Model\obj\Debug\net8.0\BookShopMVC.Model.AssemblyInfoInputs.cache
+D:\.Net\BookShop\BookShopMVC.Model\obj\Debug\net8.0\BookShopMVC.Model.AssemblyInfo.cs
+D:\.Net\BookShop\BookShopMVC.Model\obj\Debug\net8.0\BookShopMVC.Model.csproj.CoreCompileInputs.cache
+D:\.Net\BookShop\BookShopMVC.Model\bin\Debug\net8.0\BookShopMVC.Model.deps.json
+D:\.Net\BookShop\BookShopMVC.Model\bin\Debug\net8.0\BookShopMVC.Model.dll
+D:\.Net\BookShop\BookShopMVC.Model\bin\Debug\net8.0\BookShopMVC.Model.pdb
+D:\.Net\BookShop\BookShopMVC.Model\bin\Debug\net8.0\BookShopMVC.Utility.dll
+D:\.Net\BookShop\BookShopMVC.Model\bin\Debug\net8.0\BookShopMVC.Utility.pdb
+D:\.Net\BookShop\BookShopMVC.Model\obj\Debug\net8.0\BookShop.3E2FC28C.Up2Date
+D:\.Net\BookShop\BookShopMVC.Model\obj\Debug\net8.0\BookShopMVC.Model.dll
+D:\.Net\BookShop\BookShopMVC.Model\obj\Debug\net8.0\refint\BookShopMVC.Model.dll
+D:\.Net\BookShop\BookShopMVC.Model\obj\Debug\net8.0\BookShopMVC.Model.pdb
+D:\.Net\BookShop\BookShopMVC.Model\obj\Debug\net8.0\ref\BookShopMVC.Model.dll
