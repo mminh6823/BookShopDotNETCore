@@ -314,3 +314,4 @@ D:\.Net\BookShop\BookShopMVC\obj\Debug\net8.0\refint\BookShopMVC.dll
 D:\.Net\BookShop\BookShopMVC\obj\Debug\net8.0\BookShopMVC.pdb
 D:\.Net\BookShop\BookShopMVC\obj\Debug\net8.0\BookShopMVC.genruntimeconfig.cache
 D:\.Net\BookShop\BookShopMVC\obj\Debug\net8.0\ref\BookShopMVC.dll
+D:\.Net\BookShop\BookShopMVC\obj\Debug\net8.0\BookShopMVC.sourcelink.json

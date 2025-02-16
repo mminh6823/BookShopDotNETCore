@@ -15,3 +15,4 @@ D:\.Net\BookShop\BookShopMVC.DataAccess\obj\Debug\net8.0\BookShopMVC.DataAccess.
 D:\.Net\BookShop\BookShopMVC.DataAccess\obj\Debug\net8.0\refint\BookShopMVC.DataAccess.dll
 D:\.Net\BookShop\BookShopMVC.DataAccess\obj\Debug\net8.0\BookShopMVC.DataAccess.pdb
 D:\.Net\BookShop\BookShopMVC.DataAccess\obj\Debug\net8.0\ref\BookShopMVC.DataAccess.dll
+D:\.Net\BookShop\BookShopMVC.DataAccess\obj\Debug\net8.0\BookShopMVC.DataAccess.sourcelink.json

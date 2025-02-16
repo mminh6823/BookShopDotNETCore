@@ -2,27 +2,30 @@
 using BookShopMVC.Model;
 using BookShopMVC.Model.ViewModels;
 using BookStoreMVC.Utility;
+using Microsoft.Extensions.DependencyInjection;
 
 namespace BookShopMVC.Services
 {
     public class CartService : ICartService
     {
         private readonly IUnitOfWork _unitOfWork;
+        private readonly IServiceScopeFactory _serviceScopeFactory;
 
-        public CartService(IUnitOfWork unitOfWork)
+        public CartService(IUnitOfWork unitOfWork, IServiceScopeFactory serviceScopeFactory)
         {
             _unitOfWork = unitOfWork;
+            _serviceScopeFactory = serviceScopeFactory;
         }
 
         public ServiceResult AddItem(int productId, int quantity, string userId)
         {
-            Product product = _unitOfWork!.Product!.GetById(productId)!;
+            Product product = _unitOfWork.Product.GetById(productId);
             if (product == null)
             {
-                return new ServiceResult() { Success = false, Message = "Đã xảy ra lỗi khi thêm sản phẩm vào giỏ hàng." };
+                return new ServiceResult { Success = false, Message = "Sản phẩm không tồn tại." };
             }
 
-            ShoppingCartItem? itemInCart = _unitOfWork.CartItem.GetByUserId(userId)
+            ShoppingCartItem itemInCart = _unitOfWork.CartItem.GetByUserId(userId)
                 .FirstOrDefault(p => p.productId == productId);
 
             if (itemInCart != null)
@@ -41,7 +44,7 @@ namespace BookShopMVC.Services
                 _unitOfWork.CartItem.Add(shoppingCartItem);
             }
             _unitOfWork.Save();
-            return new ServiceResult() { Success = true, Message = "Sản phẩm đã được thêm vào giỏ hàng." };
+            return new ServiceResult { Success = true, Message = "Sản phẩm đã được thêm vào giỏ hàng." };
         }
 
         public ServiceResult PlaceOrder(SummaryVM summaryVM)
@@ -49,7 +52,7 @@ namespace BookShopMVC.Services
             Order order = new Order
             {
                 OrderId = Guid.NewGuid().ToString(),
-                UserId = summaryVM.Cart!.UserId,
+                UserId = summaryVM.Cart.UserId,
                 Date = DateTime.Now,
                 Status = Constants.OrderStatus.Pending,
                 StreetAddress = summaryVM.StreetAddress,
@@ -59,36 +62,46 @@ namespace BookShopMVC.Services
                 PhoneNumber = summaryVM.PhoneNumber,
             };
 
-            foreach (var item in summaryVM.Cart!.Items!)
+            using (var scope = _serviceScopeFactory.CreateScope())
             {
-                order.Items.Add(new OrderItem()
+                var scopedUnitOfWork = scope.ServiceProvider.GetRequiredService<IUnitOfWork>();
+
+                var items = summaryVM.Cart.Items.ToList(); // Load danh sách sản phẩm trước khi vòng lặp
+
+                foreach (var item in items)
                 {
-                    ProductId = item.productId,
-                    Quantity = item.quantity,
-                    Price = item.Product!.Price
-                });
+                    var product = scopedUnitOfWork.Product.GetById(item.productId);
+
+                    order.Items.Add(new OrderItem()
+                    {
+                        ProductId = item.productId,
+                        Quantity = item.quantity,
+                        Price = product?.Price ?? 0
+                    });
+                }
+
+                scopedUnitOfWork.Order.Add(order);
+                scopedUnitOfWork.ShoppingCart.ClearCart(summaryVM.Cart.UserId);
+                scopedUnitOfWork.Save();
             }
 
-            _unitOfWork.Order.Add(order);
-            _unitOfWork.ShoppingCart.ClearCart(summaryVM.Cart.UserId!);
-            _unitOfWork.Save();
-            return new ServiceResult() { Success = true, Message = "Đơn hàng đã được đặt thành công." };
+            return new ServiceResult { Success = true, Message = "Đơn hàng đã được đặt thành công." };
         }
 
-        public ServiceResult UpdateQuantity(int productId, int quantity, string? userId)
+        public ServiceResult UpdateQuantity(int productId, int quantity, string userId)
         {
-            ShoppingCartItem shoppingCartItem = _unitOfWork!.CartItem!.GetByUserId(userId!)
-                .FirstOrDefault(p => p.productId == productId)!;
+            ShoppingCartItem shoppingCartItem = _unitOfWork.CartItem.GetByUserId(userId)
+                .FirstOrDefault(p => p.productId == productId);
 
             if (shoppingCartItem == null)
             {
-                return new ServiceResult() { Success = false, Message = "Không tìm thấy sản phẩm trong giỏ hàng." };
+                return new ServiceResult { Success = false, Message = "Không tìm thấy sản phẩm trong giỏ hàng." };
             }
 
             shoppingCartItem.quantity = quantity;
             _unitOfWork.CartItem.Update(shoppingCartItem);
             _unitOfWork.Save();
-            return new ServiceResult() { Success = true, Message = "Đã cập nhật giỏ hàng!!!!!" };
+            return new ServiceResult { Success = true, Message = "Đã cập nhật giỏ hàng." };
         }
     }
 }

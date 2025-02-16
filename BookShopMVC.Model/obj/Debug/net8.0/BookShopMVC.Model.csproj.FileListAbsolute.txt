@@ -13,3 +13,4 @@ D:\.Net\BookShop\BookShopMVC.Model\obj\Debug\net8.0\BookShopMVC.Model.dll
 D:\.Net\BookShop\BookShopMVC.Model\obj\Debug\net8.0\refint\BookShopMVC.Model.dll
 D:\.Net\BookShop\BookShopMVC.Model\obj\Debug\net8.0\BookShopMVC.Model.pdb
 D:\.Net\BookShop\BookShopMVC.Model\obj\Debug\net8.0\ref\BookShopMVC.Model.dll
+D:\.Net\BookShop\BookShopMVC.Model\obj\Debug\net8.0\BookShopMVC.Model.sourcelink.json

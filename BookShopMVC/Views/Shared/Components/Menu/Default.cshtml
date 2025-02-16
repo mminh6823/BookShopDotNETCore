@@ -24,23 +24,23 @@
                             }
                         </ul>
                     </li>
-                    
+
                     @if (User.IsInRole(StaticDetails.Role_Admin))
                     {
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle text-white" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                Content Managment
+                                Quản lý 
                             </a>
                             <ul class="dropdown-menu">
                                 <li>
                                     <a class="dropdown-item" asp-controller="Category" asp-action="Index" asp-area="Admin">
-                                        Category
+                                        Thể loại
                                     </a>
                                 </li>
 
                                 <li>
                                     <a class="dropdown-item" asp-controller="Product" asp-action="Index" asp-area="Admin">
-                                        Product
+                                        Sản phẩm
                                     </a>
                                 </li>
                             </ul>
@@ -52,11 +52,11 @@
                         <li class="nav-item">
                             <a asp-area="Customer" asp-controller="ShoppingCart" asp-action="Index" class="nav-link text-white position-relative">
                                 <i class="bi bi-cart-fill me-1 text-white"></i>
-                                Cart <span id="cart-amount"></span>
+                                Giỏ hàng <span id="cart-amount"></span>
                             </a>
                         </li>
                     }
-                    
+
                 </ul>
                 <partial name="_LoginPartial" />
             </div>

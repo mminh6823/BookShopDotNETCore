@@ -1,0 +1,10 @@
+﻿@model Order
+@{
+    ViewData["Title"] = "Tóm tắt đơn hàng";
+}
+
+<h1 class="mt-3">@ViewData["Title"]</h1>
+<hr />
+
+<h1>Đơn hàng của bạn đã được đặt thành công.</h1>
+<h2 class="fw-bold">Order number: @Model.OrderId</h2>

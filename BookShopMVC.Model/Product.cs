@@ -23,17 +23,20 @@ namespace BookShopMVC.Model
 
         [Required]
         [Display(Name = "Giá từ 1 - 50")]
-        [Range(1, 1000)]
+        [Range(1, double.MaxValue)]
+        [DisplayFormat(DataFormatString = "{0:N0}")] // Hiển thị số nguyên, bỏ phần thập phân
         public decimal Price { get; set; }
 
         [Required]
         [Display(Name = "Giá từ 50+")]
-        [Range(1, 1000)]
+        [Range(1, double.MaxValue)]
+        [DisplayFormat(DataFormatString = "{0:N0}")]
         public decimal Price50 { get; set; }
 
         [Required]
         [Display(Name = "Giá từ 100+")]
-        [Range(1, 1000)]
+        [Range(1, double.MaxValue)]
+        [DisplayFormat(DataFormatString = "{0:N0}")] 
         public decimal Price100 { get; set; }
 
         public int? CategoryId { get; set; }

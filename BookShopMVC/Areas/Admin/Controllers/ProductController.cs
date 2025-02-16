@@ -63,52 +63,25 @@ namespace BookShopMVC.Areas.Admin.Controllers
         }
 
         // POST: Product/Upsert
+
         [HttpPost]
         public IActionResult Upsert(ProductVM productVM, IFormFile? file)
         {
-            if (productVM == null || productVM.Product == null)
-            {
-                TempData["error"] = "Dữ liệu sản phẩm không hợp lệ.";
-                return RedirectToAction("Index");
-            }
-
             if (ModelState.IsValid)
             {
-                // Nếu có file ảnh được upload
                 if (file != null)
                 {
                     string wwwRootPath = _webHostEnvironment.WebRootPath;
-                    if (string.IsNullOrEmpty(wwwRootPath))
-                    {
-                        TempData["error"] = "Lỗi máy chủ: Đường dẫn gốc của web chưa cấu hình";
-                        return RedirectToAction("Index");
-                    }
-
-                    // Đường dẫn lưu ảnh: wwwroot/images/product/
-                    string productPath = Path.Combine(wwwRootPath, "images", "product");
-                    if (!Directory.Exists(productPath))
-                    {
-                        Directory.CreateDirectory(productPath);
-                    }
-
-                    // Nếu sản phẩm có ảnh cũ thì xóa đi
-                    if (!string.IsNullOrEmpty(productVM.Product.ImageUrl))
-                    {
-                        _imageService.DeleteIfExists(wwwRootPath, productVM.Product.ImageUrl);
-                    }
-
-                    // Tạo tên file mới và lưu file ảnh
+                    string productPath = Path.Combine(wwwRootPath, @"images\");
+                    _imageService.DeleteIfExists(wwwRootPath, productVM.Product.ImageUrl);
                     string fileName = Guid.NewGuid().ToString() + Path.GetExtension(file.FileName);
-                    string filePath = Path.Combine(productPath, fileName);
-                    using (var fileStream = new FileStream(filePath, FileMode.Create))
+                    using (var fileStream = new FileStream(Path.Combine(productPath, fileName), FileMode.Create))
                     {
                         file.CopyTo(fileStream);
                     }
-                    // Cập nhật đường dẫn ảnh cho sản phẩm (sử dụng dấu "/" để đảm bảo URL hợp lệ)
-                    productVM.Product.ImageUrl = Path.Combine("images", "product", fileName).Replace("\\", "/");
+                    productVM.Product.ImageUrl = @"\images\" + fileName;
                 }
 
-                // Nếu Id = 0 => tạo mới, ngược lại cập nhật
                 if (productVM.Product.Id == 0)
                 {
                     _unitOfWork.Product.Add(productVM.Product);
@@ -120,13 +93,12 @@ namespace BookShopMVC.Areas.Admin.Controllers
 
                 _unitOfWork.Save();
                 TempData["success"] = productVM.Product.Id == 0
-                    ? "Thêm sản phẩm thành công!"
-                    : "Cập nhật sản phẩm thành công!";
-                return RedirectToAction("Index");
+                    ? "Thêm sản phẩm thành công"
+                    : "Cập nhật sản phẩm thành công";
+                return RedirectToAction("index");
             }
             else
             {
-                // Nếu ModelState không hợp lệ thì load lại CategoryList
                 productVM.CategoryList = _unitOfWork.Category.GetAll().Select(u => new SelectListItem
                 {
                     Text = u.Name,

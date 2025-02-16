@@ -6,8 +6,9 @@ namespace BookStoreMVC.Utility
     {
         public static class Prices
         {
-            public const decimal Shipping = 5.0m;
-            public const decimal Vat = 0.23m;
+            private static Random _random = new Random();
+            public static decimal Shipping = 25000m + (decimal)_random.NextDouble() * (50000m - 25000m);
+            public const decimal Vat = 0.05m;
         }
 
         public enum OrderStatus

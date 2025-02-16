@@ -18,7 +18,7 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
-    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.6" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.7" />
     <PackageReference Include="SixLabors.ImageSharp" Version="3.1.6" />
   </ItemGroup>
 
@@ -29,9 +29,6 @@
 
   <ItemGroup>
     <Folder Include="Areas\Admin\Views\Category\" />
-    <Folder Include="Areas\Admin\Views\Product\" />
-    <Folder Include="Areas\Identity\Pages\Account\Manage\" />
-    <Folder Include="Areas\Identity\Pages\" />
   </ItemGroup>
 
 </Project>

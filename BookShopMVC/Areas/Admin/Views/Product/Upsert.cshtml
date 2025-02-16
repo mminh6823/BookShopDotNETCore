@@ -1,0 +1,152 @@
+﻿@model ProductVM
+
+@{
+    ViewData["Title"] = (Model.Product.Id != 0 ? "Cập nhật" : "Thêm") + " Sản phẩm";
+}
+
+<div class="card box-shadow border-0 mt-4">
+    <div class="card-header bg-secondary bg-gradient ml-0 py-3">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h2 class="text-white py-2">@(Model.Product.Id != 0 ? "Cập nhật" : "Thêm") Sản phẩm</h2>
+            </div>
+        </div>
+    </div>
+    <div class="card-body shadow p-4">
+
+        <form method="post" class="row" enctype="multipart/form-data">
+
+            <input asp-for="Product.Id" hidden />
+            <input asp-for="Product.ImageUrl" hidden />
+            <div class="row">
+                <div>
+                    <div class="border p-3 mt-4">
+                        <div class="row">
+                            <div class="mb-3  col-sm-6 col-lg-4">
+                                <label asp-for="Product.Author" class="p-0">Tác giả</label>
+                                <input asp-for="Product.Author" class="form-control" />
+                                <span asp-validation-for="Product.Author" class="text-danger"></span>
+                            </div>
+                            <div class="mb-3  col-sm-6 col-lg-4">
+                                <label asp-for="Product.Title" class="p-0">Tiêu đề</label>
+                                <input asp-for="Product.Title" class="form-control" />
+                                <span asp-validation-for="Product.Title" class="text-danger"></span>
+                            </div>
+                            <div class="mb-3  col-sm-12 col-lg-4">
+                                <label asp-for="Product.ISBN" class="p-0">ISBN</label>
+                                <input asp-for="Product.ISBN" class="form-control" />
+                                <span asp-validation-for="Product.ISBN" class="text-danger"></span>
+                            </div>
+                        </div>
+                        <div class="mb-3 row">
+                            <div class="col-12">
+                                <label asp-for="Product.Description" class="p-0">Mô tả</label>
+                                <textarea asp-for="Product.Description" class="form-control"></textarea>
+                            </div>
+
+                        </div>
+
+                        <div class="mb-3 row">
+                            <div class="col-3">
+                                <label asp-for="Product.Price" class="p-0">Giá</label>
+                                <input asp-for="Product.Price" class="form-control" />
+                                <span asp-validation-for="Product.Price" class="text-danger"></span>
+                            </div>
+                            <div class="col-3">
+                                <label asp-for="Product.Price50" class="p-0">Giá mua từ 50+</label>
+                                <input asp-for="Product.Price50" class="form-control" />
+                                <span asp-validation-for="Product.Price50" class="text-danger"></span>
+                            </div>
+                            <div class="col-3">
+                                <label asp-for="Product.Price100" class="p-0">Giá mua từ 100+</label>
+                                <input asp-for="Product.Price100" class="form-control" />
+                                <span asp-validation-for="Product.Price100" class="text-danger"></span>
+                            </div>
+                        </div>
+
+                        <div class="row mb-3">
+                            <div class="col-6">
+                                <label class="p-0">Ảnh sản phẩm</label>
+                                <input type="file" class="form-control border-0 shadow" name="file" />
+                                <span asp-validation-for="Image" class="text-danger"></span>
+                                <span asp-validation-summary="All" class="text-danger"></span>
+                            </div>
+                        </div>
+                        <div class="row mb-3">
+                            <img src="@Model.Product.ImageUrl" class="img-fluid rounded w-25" alt="Product image" />
+                        </div>
+
+                        <div class="mb-3 row">
+                            <div class="col-12">
+                                <label class="p-0">Category</label>
+                                <select class="form-control" asp-for="Product.CategoryId" asp-items="@Model.CategoryList">
+                                    <option selected disabled>Chọn thể loại</option>
+                                </select>
+                                <span asp-validation-for="Product.CategoryId" class="text-danger"></span>
+                            </div>
+                        </div>
+
+                        <p>Nhãn:</p>
+                        <div class="mb-4">
+                            <div class="form-check">
+                                <input asp-for="Product.IsNew" class="form-check-input" type="checkbox" id="new-product">
+                                <label asp-for="Product.IsNew" class="form-check-label" for="new-product">Mới</label>
+                            </div>
+                            <div class="form-check">
+                                <input asp-for="Product.IsBestseller" class="form-check-input" type="checkbox" id="bestseller">
+                                <label asp-for="Product.IsBestseller" class="form-check-label" for="bestseller">Bán chạy</label>
+                            </div>
+                            <div class="form-check">
+                                <input asp-for="Product.IsSpecialOffer" class="form-check-input" type="checkbox" id="special-offer">
+                                <label asp-for="Product.IsSpecialOffer" class="form-check-label" for="special-offer">Ưu đãi đặc biệt</label>
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-6 col-md-3">
+                                @if (Model.Product.Id != 0)
+                                {
+                                    <button type="submit" class="btn btn-primary form-control">Cập nhật</button>
+                                }
+                                else
+                                {
+                                    <button type="submit" class="btn btn-primary form-control">Thêm</button>
+                                }
+
+                            </div>
+                            <div class="col-6 col-md-3">
+                                <a asp-controller="Product" asp-action="Index" class="btn btn-outline-secondary form-control">
+                                    Quay về sản phẩm
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+        </form>
+    </div>
+</div>
+
+
+
+
+@section Scripts {
+    @{
+        <partial name="_ValidationScriptsPartial" />
+        <script>
+            tinymce.init({
+                selector: 'textarea',
+                plugins: 'anchor autolink charmap codesample emoticons image link lists media searchreplace table visualblocks wordcount linkchecker',
+                toolbar: 'undo redo | blocks fontfamily fontsize | bold italic underline strikethrough | link image media table mergetags | addcomment showcomments | spellcheckdialog a11ycheck typography | align lineheight | checklist numlist bullist indent outdent | emoticons charmap | removeformat',
+                tinycomments_mode: 'embedded',
+                tinycomments_author: 'Author name',
+                mergetags_list: [
+                    { value: 'First.Name', title: 'First Name' },
+                    { value: 'Email', title: 'Email' },
+                ],
+                ai_request: (request, respondWith) => respondWith.string(() => Promise.reject("See docs to implement AI Assistant")),
+            });
+        </script>
+    }
+}
+
+

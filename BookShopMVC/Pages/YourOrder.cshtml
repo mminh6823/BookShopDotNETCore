@@ -1,0 +1,48 @@
+﻿@page
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model BookShopMVC.Pages.YourOderModel
+@{
+    Layout = "_Layout";
+    ViewData["Title"] = "Đơn hàng của bạn";
+}
+<h1>@ViewData["Title"]</h1>
+<hr />
+
+@if (!Model.orders.Any())
+{
+    <p>Bạn không có đơn hàng nào.</p>
+}
+else
+{
+    <div class="row">
+        <div class="col-md-12">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>ID đơn hàng</th>
+                        <th>Thời gian đặt hàng</th>
+                        <th>Số lượng sản phẩm</th>
+                        <th>Tổng tiền</th>
+                        <th>Trạng thái đơn hàng</th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var order in Model.orders)
+                    {
+                        <tr>
+                            <td>@order.OrderId</td>
+                            <td>@order.Date</td>
+                            <td>@order.Items.Count()</td>
+                            <td>@order.Total.ToString("c")</td>
+                            <td>@order.Status</td>
+                            <td>
+                                <a asp-page="/Order" asp-route-id="@order.Id" class="">Chi tiết</a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+}

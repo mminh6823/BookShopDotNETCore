@@ -1,4 +1,4 @@
-﻿using BookShopMVC.DataAccess.Data;
+using BookShopMVC.DataAccess.Data;
 using BookShopMVC.DataAccess.Repository;
 using BookShopMVC.DataAccess.Repository.IRepository;
 using BookShopMVC.Model;
@@ -27,11 +27,15 @@ CultureInfo.DefaultThreadCurrentUICulture = cultureInfo;
 builder.Services.AddControllersWithViews();
 
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")),
+    ServiceLifetime.Scoped
+    );
 
 
-builder.Services.AddIdentity<ApplicationUser, IdentityRole>().AddEntityFrameworkStores<ApplicationDbContext>()
+builder.Services.AddIdentity<ApplicationUser, IdentityRole>()
+    .AddEntityFrameworkStores<ApplicationDbContext>()
     .AddDefaultTokenProviders();
+
 
 builder.Services.ConfigureApplicationCookie(o =>
 {

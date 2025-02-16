@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace BookShopMVC.Pages
+namespace BookShopMVC.Areas.Admin.Pages
 {
     [Authorize(Roles = StaticDetails.Role_Cust + "," + StaticDetails.Role_Admin)]
     public class OrderModel : PageModel
