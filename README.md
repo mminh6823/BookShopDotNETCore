@@ -14,6 +14,18 @@ Backend: ASP.NET Core MVC 8, Entity Framework Core, SQL Server
 Frontend: Razor Pages, Bootstrap, jQuery, AJAX
 Xác thực & phân quyền: Identity Framework
 ---------Screenshot---------
+
+
+
+
+
+
+
+
+
+
+
+
 ![ER](https://github.com/user-attachments/assets/bf7a1a2a-fd46-4e14-97ec-2c419fced298)
 TRANG ĐĂNG NHẬP
 ![Login](https://github.com/user-attachments/assets/37fbc6aa-4dac-4adb-b678-168bd896bc65)
