@@ -27,8 +27,4 @@
     <ProjectReference Include="..\BookShopMVC.Utility\BookShopMVC.Utility.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Areas\Admin\Views\Category\" />
-  </ItemGroup>
-
 </Project>

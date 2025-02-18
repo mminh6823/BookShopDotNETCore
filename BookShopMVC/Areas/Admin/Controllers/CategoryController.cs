@@ -33,7 +33,7 @@ namespace BookShopMVC.Areas.Admin.Controllers
             {
                 ModelState.AddModelError("Name", "Tên không được trùng với thứ tự hiển thị");
             }
-
+            
             if (ModelState.IsValid)
             {
                 _unitOfWork.Category.Add(category);
