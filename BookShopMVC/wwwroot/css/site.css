@@ -1,4 +1,4 @@
-html {
+﻿html {
   font-size: 14px;
 }
 
@@ -20,3 +20,32 @@ html {
 body {
   margin-bottom: 60px;
 }
+#aurora-text {
+    font-size: 24px;
+    font-weight: bold;
+    text-transform: uppercase;
+    background: linear-gradient(90deg, #ff00ff, #00ffff, #ff6600, #ff00ff);
+    background-size: 400% 400%;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: aurora 6s infinite linear;
+    text-decoration: none;
+    display: inline-block;
+}
+
+@keyframes aurora {
+    0% {
+        background-position: 0% 50%;
+    }
+
+    50% {
+        background-position: 100% 50%;
+    }
+
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+
+

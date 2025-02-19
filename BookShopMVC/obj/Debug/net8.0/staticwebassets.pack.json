@@ -1,315 +1,315 @@
 {
   "Files": [
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BookShopMVC.bundle.scp.css",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BookShopMVC.bundle.scp.css",
       "PackagePath": "staticwebassets\\BookShopMVC.sfmtsc0s72.bundle.scp.css"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\css\\site.css",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\favicon.ico",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\images\\36328942-bb61-4096-b720-5b9e16f2003e.jpg",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\images\\36328942-bb61-4096-b720-5b9e16f2003e.jpg",
       "PackagePath": "staticwebassets\\images\\36328942-bb61-4096-b720-5b9e16f2003e.jpg"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\images\\703d095a-25d8-4eeb-bb71-82f20add7270.jpg",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\images\\703d095a-25d8-4eeb-bb71-82f20add7270.jpg",
       "PackagePath": "staticwebassets\\images\\703d095a-25d8-4eeb-bb71-82f20add7270.jpg"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\images\\75120e12-8be7-42eb-847e-2a23719d3963.jpg",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\images\\75120e12-8be7-42eb-847e-2a23719d3963.jpg",
       "PackagePath": "staticwebassets\\images\\75120e12-8be7-42eb-847e-2a23719d3963.jpg"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\images\\7841a8aa-5238-4936-a3fa-d4cd2e5b2da4.jpg",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\images\\7841a8aa-5238-4936-a3fa-d4cd2e5b2da4.jpg",
       "PackagePath": "staticwebassets\\images\\7841a8aa-5238-4936-a3fa-d4cd2e5b2da4.jpg"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\images\\affdd0fd-85fd-400f-932b-a78bcdd13376.jpg",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\images\\affdd0fd-85fd-400f-932b-a78bcdd13376.jpg",
       "PackagePath": "staticwebassets\\images\\affdd0fd-85fd-400f-932b-a78bcdd13376.jpg"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\images\\book-shop.png",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\images\\book-shop.png",
       "PackagePath": "staticwebassets\\images\\book-shop.png"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\images\\c7bb7509-1d22-42c8-830b-72ef72d702a6.jpg",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\images\\c7bb7509-1d22-42c8-830b-72ef72d702a6.jpg",
       "PackagePath": "staticwebassets\\images\\c7bb7509-1d22-42c8-830b-72ef72d702a6.jpg"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\images\\e6f61eee-5404-48bc-9aa7-6f26d50288ea.jpg",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\images\\e6f61eee-5404-48bc-9aa7-6f26d50288ea.jpg",
       "PackagePath": "staticwebassets\\images\\e6f61eee-5404-48bc-9aa7-6f26d50288ea.jpg"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\images\\m142341251_4m124n512515bh3125h123jhb11251v5125v1.jpg",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\images\\m142341251_4m124n512515bh3125h123jhb11251v5125v1.jpg",
       "PackagePath": "staticwebassets\\images\\m142341251_4m124n512515bh3125h123jhb11251v5125v1.jpg"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\images\\z6321261835893_7d33517c242d4a19d080e5eb5462219.jpg",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\images\\z6321261835893_7d33517c242d4a19d080e5eb5462219.jpg",
       "PackagePath": "staticwebassets\\images\\z6321261835893_7d33517c242d4a19d080e5eb5462219.jpg"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\images\\z6323902295526_a410c214e3246d6d05eed35c987a7ee1.jpg",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\images\\z6323902295526_a410c214e3246d6d05eed35c987a7ee1.jpg",
       "PackagePath": "staticwebassets\\images\\z6323902295526_a410c214e3246d6d05eed35c987a7ee1.jpg"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\images\\z6323907124077_5c6bd938b035a3f7b57aafcc5588e81e.jpg",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\images\\z6323907124077_5c6bd938b035a3f7b57aafcc5588e81e.jpg",
       "PackagePath": "staticwebassets\\images\\z6323907124077_5c6bd938b035a3f7b57aafcc5588e81e.jpg"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\images\\z6323910148831_3f0c6c5bf5e574895da0c4b2599df4e0.jpg",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\images\\z6323910148831_3f0c6c5bf5e574895da0c4b2599df4e0.jpg",
       "PackagePath": "staticwebassets\\images\\z6323910148831_3f0c6c5bf5e574895da0c4b2599df4e0.jpg"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\images\\z6323918644247_ddcf386893ef82ed23b80db3e59e290f.jpg",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\images\\z6323918644247_ddcf386893ef82ed23b80db3e59e290f.jpg",
       "PackagePath": "staticwebassets\\images\\z6323918644247_ddcf386893ef82ed23b80db3e59e290f.jpg"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\js\\addToCart.js",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\js\\addToCart.js",
       "PackagePath": "staticwebassets\\js\\addToCart.js"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\js\\cart.js",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\js\\cart.js",
       "PackagePath": "staticwebassets\\js\\cart.js"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\js\\product.js",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\js\\product.js",
       "PackagePath": "staticwebassets\\js\\product.js"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\js\\site.js",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

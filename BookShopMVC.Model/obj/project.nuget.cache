@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XWe0pZ9uKLw=",
+  "dgSpecHash": "4/rf9mPTL4o=",
   "success": true,
-  "projectFilePath": "D:\\.Net\\BookShop\\BookShopMVC.Model\\BookShopMVC.Model.csproj",
+  "projectFilePath": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC.Model\\BookShopMVC.Model.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.3.0\\microsoft.aspnetcore.antiforgery.2.3.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.3.0\\microsoft.aspnetcore.authentication.abstractions.2.3.0.nupkg.sha512",

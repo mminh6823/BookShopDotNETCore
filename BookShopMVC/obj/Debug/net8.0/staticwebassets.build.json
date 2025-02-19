@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "yFb5JJ/5UxyuIKxc3t3uAEHFcjIfTNL812y0/cMD080=",
+  "Hash": "3EdEhTc+BPTOu1GWVOk5EdmqGKFYb0SUekt3SjqhCas=",
   "Source": "BookShopMVC",
   "BasePath": "_content/BookShopMVC",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "BookShopMVC\\wwwroot",
       "Source": "BookShopMVC",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "Pattern": "**"
     }
@@ -1277,10 +1277,10 @@
       "OriginalItemSpec": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.12\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BookShopMVC.styles.css",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BookShopMVC.styles.css",
       "SourceId": "BookShopMVC",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "BookShopMVC#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -1295,13 +1295,13 @@
       "Integrity": "2GKQy8TcZVNgoAO7mTr2hWUU5/vu2LIbsveQ4spRsgs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\.Net\\BookShop\\BookShopMVC\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BookShopMVC.styles.css"
+      "OriginalItemSpec": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BookShopMVC.styles.css"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BookShopMVC.bundle.scp.css",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BookShopMVC.bundle.scp.css",
       "SourceId": "BookShopMVC",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "BookShopMVC#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -1316,13 +1316,13 @@
       "Integrity": "2GKQy8TcZVNgoAO7mTr2hWUU5/vu2LIbsveQ4spRsgs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\.Net\\BookShop\\BookShopMVC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BookShopMVC.bundle.scp.css"
+      "OriginalItemSpec": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BookShopMVC.bundle.scp.css"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\css\\site.css",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\css\\site.css",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1333,17 +1333,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "c2tiyv64ts",
-      "Integrity": "pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=",
+      "Fingerprint": "ia0239huwh",
+      "Integrity": "Blti+QaNA2n9T05sqiJrcUG1n2PaqNqWFnq1L99Apns=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\favicon.ico",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\favicon.ico",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -1361,10 +1361,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\images\\36328942-bb61-4096-b720-5b9e16f2003e.jpg",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\images\\36328942-bb61-4096-b720-5b9e16f2003e.jpg",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "images/36328942-bb61-4096-b720-5b9e16f2003e#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1382,10 +1382,10 @@
       "OriginalItemSpec": "wwwroot\\images\\36328942-bb61-4096-b720-5b9e16f2003e.jpg"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\images\\703d095a-25d8-4eeb-bb71-82f20add7270.jpg",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\images\\703d095a-25d8-4eeb-bb71-82f20add7270.jpg",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "images/703d095a-25d8-4eeb-bb71-82f20add7270#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1403,10 +1403,10 @@
       "OriginalItemSpec": "wwwroot\\images\\703d095a-25d8-4eeb-bb71-82f20add7270.jpg"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\images\\75120e12-8be7-42eb-847e-2a23719d3963.jpg",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\images\\75120e12-8be7-42eb-847e-2a23719d3963.jpg",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "images/75120e12-8be7-42eb-847e-2a23719d3963#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1424,10 +1424,10 @@
       "OriginalItemSpec": "wwwroot\\images\\75120e12-8be7-42eb-847e-2a23719d3963.jpg"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\images\\7841a8aa-5238-4936-a3fa-d4cd2e5b2da4.jpg",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\images\\7841a8aa-5238-4936-a3fa-d4cd2e5b2da4.jpg",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "images/7841a8aa-5238-4936-a3fa-d4cd2e5b2da4#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\images\\7841a8aa-5238-4936-a3fa-d4cd2e5b2da4.jpg"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\images\\affdd0fd-85fd-400f-932b-a78bcdd13376.jpg",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\images\\affdd0fd-85fd-400f-932b-a78bcdd13376.jpg",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "images/affdd0fd-85fd-400f-932b-a78bcdd13376#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1466,10 +1466,10 @@
       "OriginalItemSpec": "wwwroot\\images\\affdd0fd-85fd-400f-932b-a78bcdd13376.jpg"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\images\\book-shop.png",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\images\\book-shop.png",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "images/book-shop#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -1487,10 +1487,10 @@
       "OriginalItemSpec": "wwwroot\\images\\book-shop.png"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\images\\c7bb7509-1d22-42c8-830b-72ef72d702a6.jpg",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\images\\c7bb7509-1d22-42c8-830b-72ef72d702a6.jpg",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "images/c7bb7509-1d22-42c8-830b-72ef72d702a6#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1508,10 +1508,10 @@
       "OriginalItemSpec": "wwwroot\\images\\c7bb7509-1d22-42c8-830b-72ef72d702a6.jpg"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\images\\e6f61eee-5404-48bc-9aa7-6f26d50288ea.jpg",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\images\\e6f61eee-5404-48bc-9aa7-6f26d50288ea.jpg",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "images/e6f61eee-5404-48bc-9aa7-6f26d50288ea#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1529,10 +1529,10 @@
       "OriginalItemSpec": "wwwroot\\images\\e6f61eee-5404-48bc-9aa7-6f26d50288ea.jpg"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\images\\m142341251_4m124n512515bh3125h123jhb11251v5125v1.jpg",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\images\\m142341251_4m124n512515bh3125h123jhb11251v5125v1.jpg",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "images/m142341251_4m124n512515bh3125h123jhb11251v5125v1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1550,10 +1550,10 @@
       "OriginalItemSpec": "wwwroot\\images\\m142341251_4m124n512515bh3125h123jhb11251v5125v1.jpg"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\images\\z6321261835893_7d33517c242d4a19d080e5eb5462219.jpg",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\images\\z6321261835893_7d33517c242d4a19d080e5eb5462219.jpg",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "images/z6321261835893_7d33517c242d4a19d080e5eb5462219#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1571,10 +1571,10 @@
       "OriginalItemSpec": "wwwroot\\images\\z6321261835893_7d33517c242d4a19d080e5eb5462219.jpg"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\images\\z6323902295526_a410c214e3246d6d05eed35c987a7ee1.jpg",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\images\\z6323902295526_a410c214e3246d6d05eed35c987a7ee1.jpg",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "images/z6323902295526_a410c214e3246d6d05eed35c987a7ee1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1592,10 +1592,10 @@
       "OriginalItemSpec": "wwwroot\\images\\z6323902295526_a410c214e3246d6d05eed35c987a7ee1.jpg"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\images\\z6323907124077_5c6bd938b035a3f7b57aafcc5588e81e.jpg",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\images\\z6323907124077_5c6bd938b035a3f7b57aafcc5588e81e.jpg",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "images/z6323907124077_5c6bd938b035a3f7b57aafcc5588e81e#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\images\\z6323907124077_5c6bd938b035a3f7b57aafcc5588e81e.jpg"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\images\\z6323910148831_3f0c6c5bf5e574895da0c4b2599df4e0.jpg",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\images\\z6323910148831_3f0c6c5bf5e574895da0c4b2599df4e0.jpg",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "images/z6323910148831_3f0c6c5bf5e574895da0c4b2599df4e0#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1634,10 +1634,10 @@
       "OriginalItemSpec": "wwwroot\\images\\z6323910148831_3f0c6c5bf5e574895da0c4b2599df4e0.jpg"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\images\\z6323918644247_ddcf386893ef82ed23b80db3e59e290f.jpg",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\images\\z6323918644247_ddcf386893ef82ed23b80db3e59e290f.jpg",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "images/z6323918644247_ddcf386893ef82ed23b80db3e59e290f#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1655,10 +1655,10 @@
       "OriginalItemSpec": "wwwroot\\images\\z6323918644247_ddcf386893ef82ed23b80db3e59e290f.jpg"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\js\\addToCart.js",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\js\\addToCart.js",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "js/addToCart#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1676,10 +1676,10 @@
       "OriginalItemSpec": "wwwroot\\js\\addToCart.js"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\js\\cart.js",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\js\\cart.js",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "js/cart#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1697,10 +1697,10 @@
       "OriginalItemSpec": "wwwroot\\js\\cart.js"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\js\\product.js",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\js\\product.js",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "js/product#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1718,10 +1718,10 @@
       "OriginalItemSpec": "wwwroot\\js\\product.js"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\js\\site.js",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\js\\site.js",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1739,10 +1739,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1760,10 +1760,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1781,10 +1781,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1823,10 +1823,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1844,10 +1844,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1865,10 +1865,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1886,10 +1886,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1907,10 +1907,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1928,10 +1928,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1949,10 +1949,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1970,10 +1970,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1991,10 +1991,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2012,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2033,10 +2033,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2054,10 +2054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2075,10 +2075,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2096,10 +2096,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2117,10 +2117,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2138,10 +2138,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2180,10 +2180,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2201,10 +2201,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2222,10 +2222,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2243,10 +2243,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2264,10 +2264,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2285,10 +2285,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2306,10 +2306,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2327,10 +2327,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2348,10 +2348,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2369,10 +2369,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2390,10 +2390,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2411,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2432,10 +2432,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2453,10 +2453,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2474,10 +2474,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2495,10 +2495,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2516,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2537,10 +2537,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2558,10 +2558,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2579,10 +2579,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2600,10 +2600,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2621,10 +2621,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2642,10 +2642,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2663,10 +2663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "lib/bootstrap/LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -2684,10 +2684,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2705,10 +2705,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2726,10 +2726,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2747,10 +2747,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -2768,10 +2768,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2789,10 +2789,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2810,10 +2810,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2831,10 +2831,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2852,10 +2852,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
       "AssetKind": "All",
@@ -2873,10 +2873,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2894,10 +2894,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2915,10 +2915,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "BookShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\",
+      "ContentRoot": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\",
       "BasePath": "_content/BookShopMVC",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -2939,7 +2939,7 @@
   "Endpoints": [
     {
       "Route": "BookShopMVC.bundle.scp.css",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BookShopMVC.bundle.scp.css",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BookShopMVC.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2976,7 +2976,7 @@
     },
     {
       "Route": "BookShopMVC.sfmtsc0s72.bundle.scp.css",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BookShopMVC.bundle.scp.css",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BookShopMVC.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3021,7 +3021,7 @@
     },
     {
       "Route": "BookShopMVC.sfmtsc0s72.styles.css",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BookShopMVC.styles.css",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BookShopMVC.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3066,7 +3066,7 @@
     },
     {
       "Route": "BookShopMVC.styles.css",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BookShopMVC.styles.css",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BookShopMVC.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3102,53 +3102,8 @@
       ]
     },
     {
-      "Route": "css/site.c2tiyv64ts.css",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "362"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 06:35:29 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "c2tiyv64ts"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
-        }
-      ]
-    },
-    {
       "Route": "css/site.css",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\css\\site.css",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3157,7 +3112,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "362"
+          "Value": "1595"
         },
         {
           "Name": "Content-Type",
@@ -3165,11 +3120,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
+          "Value": "\"Blti+QaNA2n9T05sqiJrcUG1n2PaqNqWFnq1L99Apns=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 06:35:29 GMT"
+          "Value": "Wed, 19 Feb 2025 13:03:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3179,13 +3134,58 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+          "Value": "sha256-Blti+QaNA2n9T05sqiJrcUG1n2PaqNqWFnq1L99Apns="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.ia0239huwh.css",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1595"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Blti+QaNA2n9T05sqiJrcUG1n2PaqNqWFnq1L99Apns=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 13:03:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ia0239huwh"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Blti+QaNA2n9T05sqiJrcUG1n2PaqNqWFnq1L99Apns="
         }
       ]
     },
     {
       "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\favicon.ico",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3230,7 +3230,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\favicon.ico",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5487,7 +5487,7 @@
     },
     {
       "Route": "images/36328942-bb61-4096-b720-5b9e16f2003e.5j0wo0ssq0.jpg",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\images\\36328942-bb61-4096-b720-5b9e16f2003e.jpg",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\images\\36328942-bb61-4096-b720-5b9e16f2003e.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5532,7 +5532,7 @@
     },
     {
       "Route": "images/36328942-bb61-4096-b720-5b9e16f2003e.jpg",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\images\\36328942-bb61-4096-b720-5b9e16f2003e.jpg",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\images\\36328942-bb61-4096-b720-5b9e16f2003e.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5569,7 +5569,7 @@
     },
     {
       "Route": "images/703d095a-25d8-4eeb-bb71-82f20add7270.i5imlklu7z.jpg",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\images\\703d095a-25d8-4eeb-bb71-82f20add7270.jpg",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\images\\703d095a-25d8-4eeb-bb71-82f20add7270.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5614,7 +5614,7 @@
     },
     {
       "Route": "images/703d095a-25d8-4eeb-bb71-82f20add7270.jpg",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\images\\703d095a-25d8-4eeb-bb71-82f20add7270.jpg",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\images\\703d095a-25d8-4eeb-bb71-82f20add7270.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5651,7 +5651,7 @@
     },
     {
       "Route": "images/75120e12-8be7-42eb-847e-2a23719d3963.jpg",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\images\\75120e12-8be7-42eb-847e-2a23719d3963.jpg",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\images\\75120e12-8be7-42eb-847e-2a23719d3963.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5688,7 +5688,7 @@
     },
     {
       "Route": "images/75120e12-8be7-42eb-847e-2a23719d3963.zksg88k5fp.jpg",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\images\\75120e12-8be7-42eb-847e-2a23719d3963.jpg",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\images\\75120e12-8be7-42eb-847e-2a23719d3963.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5733,7 +5733,7 @@
     },
     {
       "Route": "images/7841a8aa-5238-4936-a3fa-d4cd2e5b2da4.jpg",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\images\\7841a8aa-5238-4936-a3fa-d4cd2e5b2da4.jpg",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\images\\7841a8aa-5238-4936-a3fa-d4cd2e5b2da4.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5770,7 +5770,7 @@
     },
     {
       "Route": "images/7841a8aa-5238-4936-a3fa-d4cd2e5b2da4.tc8k69k8yg.jpg",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\images\\7841a8aa-5238-4936-a3fa-d4cd2e5b2da4.jpg",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\images\\7841a8aa-5238-4936-a3fa-d4cd2e5b2da4.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5815,7 +5815,7 @@
     },
     {
       "Route": "images/affdd0fd-85fd-400f-932b-a78bcdd13376.2rzcgtfhrw.jpg",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\images\\affdd0fd-85fd-400f-932b-a78bcdd13376.jpg",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\images\\affdd0fd-85fd-400f-932b-a78bcdd13376.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5860,7 +5860,7 @@
     },
     {
       "Route": "images/affdd0fd-85fd-400f-932b-a78bcdd13376.jpg",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\images\\affdd0fd-85fd-400f-932b-a78bcdd13376.jpg",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\images\\affdd0fd-85fd-400f-932b-a78bcdd13376.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5897,7 +5897,7 @@
     },
     {
       "Route": "images/book-shop.locupj5zj1.png",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\images\\book-shop.png",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\images\\book-shop.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5942,7 +5942,7 @@
     },
     {
       "Route": "images/book-shop.png",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\images\\book-shop.png",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\images\\book-shop.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5979,7 +5979,7 @@
     },
     {
       "Route": "images/c7bb7509-1d22-42c8-830b-72ef72d702a6.jpg",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\images\\c7bb7509-1d22-42c8-830b-72ef72d702a6.jpg",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\images\\c7bb7509-1d22-42c8-830b-72ef72d702a6.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6016,7 +6016,7 @@
     },
     {
       "Route": "images/c7bb7509-1d22-42c8-830b-72ef72d702a6.uumnx8s3ps.jpg",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\images\\c7bb7509-1d22-42c8-830b-72ef72d702a6.jpg",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\images\\c7bb7509-1d22-42c8-830b-72ef72d702a6.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6061,7 +6061,7 @@
     },
     {
       "Route": "images/e6f61eee-5404-48bc-9aa7-6f26d50288ea.jpg",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\images\\e6f61eee-5404-48bc-9aa7-6f26d50288ea.jpg",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\images\\e6f61eee-5404-48bc-9aa7-6f26d50288ea.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6098,7 +6098,7 @@
     },
     {
       "Route": "images/e6f61eee-5404-48bc-9aa7-6f26d50288ea.tncr8uu4w1.jpg",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\images\\e6f61eee-5404-48bc-9aa7-6f26d50288ea.jpg",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\images\\e6f61eee-5404-48bc-9aa7-6f26d50288ea.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6143,7 +6143,7 @@
     },
     {
       "Route": "images/m142341251_4m124n512515bh3125h123jhb11251v5125v1.5j0wo0ssq0.jpg",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\images\\m142341251_4m124n512515bh3125h123jhb11251v5125v1.jpg",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\images\\m142341251_4m124n512515bh3125h123jhb11251v5125v1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6188,7 +6188,7 @@
     },
     {
       "Route": "images/m142341251_4m124n512515bh3125h123jhb11251v5125v1.jpg",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\images\\m142341251_4m124n512515bh3125h123jhb11251v5125v1.jpg",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\images\\m142341251_4m124n512515bh3125h123jhb11251v5125v1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6225,7 +6225,7 @@
     },
     {
       "Route": "images/z6321261835893_7d33517c242d4a19d080e5eb5462219.2rzcgtfhrw.jpg",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\images\\z6321261835893_7d33517c242d4a19d080e5eb5462219.jpg",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\images\\z6321261835893_7d33517c242d4a19d080e5eb5462219.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6270,7 +6270,7 @@
     },
     {
       "Route": "images/z6321261835893_7d33517c242d4a19d080e5eb5462219.jpg",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\images\\z6321261835893_7d33517c242d4a19d080e5eb5462219.jpg",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\images\\z6321261835893_7d33517c242d4a19d080e5eb5462219.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6307,7 +6307,7 @@
     },
     {
       "Route": "images/z6323902295526_a410c214e3246d6d05eed35c987a7ee1.i5imlklu7z.jpg",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\images\\z6323902295526_a410c214e3246d6d05eed35c987a7ee1.jpg",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\images\\z6323902295526_a410c214e3246d6d05eed35c987a7ee1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6352,7 +6352,7 @@
     },
     {
       "Route": "images/z6323902295526_a410c214e3246d6d05eed35c987a7ee1.jpg",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\images\\z6323902295526_a410c214e3246d6d05eed35c987a7ee1.jpg",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\images\\z6323902295526_a410c214e3246d6d05eed35c987a7ee1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6389,7 +6389,7 @@
     },
     {
       "Route": "images/z6323907124077_5c6bd938b035a3f7b57aafcc5588e81e.jpg",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\images\\z6323907124077_5c6bd938b035a3f7b57aafcc5588e81e.jpg",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\images\\z6323907124077_5c6bd938b035a3f7b57aafcc5588e81e.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6426,7 +6426,7 @@
     },
     {
       "Route": "images/z6323907124077_5c6bd938b035a3f7b57aafcc5588e81e.zksg88k5fp.jpg",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\images\\z6323907124077_5c6bd938b035a3f7b57aafcc5588e81e.jpg",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\images\\z6323907124077_5c6bd938b035a3f7b57aafcc5588e81e.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6471,7 +6471,7 @@
     },
     {
       "Route": "images/z6323910148831_3f0c6c5bf5e574895da0c4b2599df4e0.jpg",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\images\\z6323910148831_3f0c6c5bf5e574895da0c4b2599df4e0.jpg",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\images\\z6323910148831_3f0c6c5bf5e574895da0c4b2599df4e0.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6508,7 +6508,7 @@
     },
     {
       "Route": "images/z6323910148831_3f0c6c5bf5e574895da0c4b2599df4e0.tncr8uu4w1.jpg",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\images\\z6323910148831_3f0c6c5bf5e574895da0c4b2599df4e0.jpg",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\images\\z6323910148831_3f0c6c5bf5e574895da0c4b2599df4e0.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6553,7 +6553,7 @@
     },
     {
       "Route": "images/z6323918644247_ddcf386893ef82ed23b80db3e59e290f.jpg",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\images\\z6323918644247_ddcf386893ef82ed23b80db3e59e290f.jpg",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\images\\z6323918644247_ddcf386893ef82ed23b80db3e59e290f.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6590,7 +6590,7 @@
     },
     {
       "Route": "images/z6323918644247_ddcf386893ef82ed23b80db3e59e290f.uumnx8s3ps.jpg",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\images\\z6323918644247_ddcf386893ef82ed23b80db3e59e290f.jpg",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\images\\z6323918644247_ddcf386893ef82ed23b80db3e59e290f.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6635,7 +6635,7 @@
     },
     {
       "Route": "js/addToCart.js",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\js\\addToCart.js",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\js\\addToCart.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6672,7 +6672,7 @@
     },
     {
       "Route": "js/addToCart.k7n47mncx3.js",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\js\\addToCart.js",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\js\\addToCart.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6717,7 +6717,7 @@
     },
     {
       "Route": "js/cart.js",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\js\\cart.js",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\js\\cart.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6754,7 +6754,7 @@
     },
     {
       "Route": "js/cart.qkkd7mdf2s.js",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\js\\cart.js",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\js\\cart.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6799,7 +6799,7 @@
     },
     {
       "Route": "js/product.js",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\js\\product.js",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\js\\product.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6836,7 +6836,7 @@
     },
     {
       "Route": "js/product.q4xefntvsb.js",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\js\\product.js",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\js\\product.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6881,7 +6881,7 @@
     },
     {
       "Route": "js/site.js",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\js\\site.js",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6918,7 +6918,7 @@
     },
     {
       "Route": "js/site.xtxxf3hu2r.js",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\js\\site.js",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6963,7 +6963,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7000,7 +7000,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.73kdqttayv.map",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7045,7 +7045,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7082,7 +7082,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.bpk8xqwxhs.css",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7127,7 +7127,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7164,7 +7164,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7209,7 +7209,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7246,7 +7246,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.mpyigms19s.css",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7291,7 +7291,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7328,7 +7328,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.4gxs3k148c.map",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7373,7 +7373,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7410,7 +7410,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.9b9oa1qrmt.css",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7455,7 +7455,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7492,7 +7492,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.fctod5rc9n.map",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7537,7 +7537,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7574,7 +7574,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.ve6x09088i.css",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7619,7 +7619,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.agp80tu62r.css",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7664,7 +7664,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7701,7 +7701,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7738,7 +7738,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.st1cbwfwo5.map",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7783,7 +7783,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7820,7 +7820,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.5vj65cig9w.map",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7865,7 +7865,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7902,7 +7902,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.unj9p35syc.css",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7947,7 +7947,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7984,7 +7984,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.2q4vfeazbq.map",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8029,7 +8029,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8066,7 +8066,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8103,7 +8103,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8140,7 +8140,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.o371a8zbv2.map",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8185,7 +8185,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.n1oizzvkh6.css",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8230,7 +8230,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.q2ku51ktnl.css",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8275,7 +8275,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.7na4sro3qu.css",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8320,7 +8320,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8357,7 +8357,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.jeal3x0ldm.map",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8402,7 +8402,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8439,7 +8439,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8476,7 +8476,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8513,7 +8513,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.okkk44j0xs.map",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8558,7 +8558,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.f8imaxxbri.css",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8603,7 +8603,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.0wve5yxp74.css",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8648,7 +8648,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8685,7 +8685,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.cwzlr5n8x4.map",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8730,7 +8730,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8767,7 +8767,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8804,7 +8804,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8841,7 +8841,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.wmug9u23qg.map",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8886,7 +8886,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.npxfuf8dg6.css",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8931,7 +8931,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8968,7 +8968,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.j75batdsum.map",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9013,7 +9013,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9050,7 +9050,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.16095smhkz.css",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9095,7 +9095,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9132,7 +9132,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9169,7 +9169,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.vy0bq9ydhf.map",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9214,7 +9214,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.b4skse8du6.css",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9259,7 +9259,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9296,7 +9296,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.ab1c3rmv7g.map",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9341,7 +9341,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9378,7 +9378,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9415,7 +9415,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.56d2bn4wt9.map",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9460,7 +9460,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9497,7 +9497,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.u3xrusw2ol.css",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9542,7 +9542,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.tey0rigmnh.css",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9587,7 +9587,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9624,7 +9624,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.kbynt5jhd9.map",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9669,7 +9669,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9706,7 +9706,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.l2av4jpuoj.js",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9751,7 +9751,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.25iw1kog22.js",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9796,7 +9796,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9833,7 +9833,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.c2nslu3uf3.map",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9878,7 +9878,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9915,7 +9915,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9952,7 +9952,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.2lgwfvgpvi.map",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9997,7 +9997,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10034,7 +10034,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.m39kt2b5c9.js",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10079,7 +10079,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10116,7 +10116,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10153,7 +10153,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.wsezl0heh6.map",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10198,7 +10198,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.um2aeqy4ik.js",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10243,7 +10243,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10280,7 +10280,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.6ukhryfubh.map",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10325,7 +10325,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.map",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10362,7 +10362,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10399,7 +10399,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10436,7 +10436,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.u33ctipx7g.map",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10481,7 +10481,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.zwph15dxgs.js",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10526,7 +10526,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.o4kw7cc6tf.js",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10571,7 +10571,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10608,7 +10608,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE.81b7ukuj9c",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10653,7 +10653,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.fwhahm2icz.js",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10698,7 +10698,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.js",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10735,7 +10735,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.5pze98is44.map",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10780,7 +10780,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.dd6z7egasc.js",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10825,7 +10825,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.js",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10862,7 +10862,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.map",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10899,7 +10899,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.mlv21k5csn.txt",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10944,7 +10944,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.txt",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10981,7 +10981,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.ay5nd8zt9x.js",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11026,7 +11026,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.js",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11063,7 +11063,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.9oaff4kq20.js",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11108,7 +11108,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.js",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11145,7 +11145,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.js",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11182,7 +11182,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.b7iojwaux1.js",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11227,7 +11227,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.js",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11264,7 +11264,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.pzqfkb6aqo.js",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11309,7 +11309,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.md",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11346,7 +11346,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.x0q3zqp4vz.md",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11391,7 +11391,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.47otxtyo56.js",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11436,7 +11436,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11473,7 +11473,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.4v8eqarkd7.js",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11518,7 +11518,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11555,7 +11555,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.356vix0kms.txt",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11600,7 +11600,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "AssetFile": "D:\\.Net\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {

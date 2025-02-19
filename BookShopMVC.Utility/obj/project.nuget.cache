@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iW8FRWlPQM8=",
+  "dgSpecHash": "f1KAM0qnQaE=",
   "success": true,
-  "projectFilePath": "D:\\.Net\\BookShop\\BookShopMVC.Utility\\BookShopMVC.Utility.csproj",
+  "projectFilePath": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC.Utility\\BookShopMVC.Utility.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\8.0.12\\microsoft.aspnetcore.cryptography.internal.8.0.12.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\8.0.12\\microsoft.aspnetcore.cryptography.keyderivation.8.0.12.nupkg.sha512",

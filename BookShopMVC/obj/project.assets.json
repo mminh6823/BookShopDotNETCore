@@ -9873,11 +9873,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.Net\\BookShop\\BookShopMVC\\BookShopMVC.csproj",
+      "projectUniqueName": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\BookShopMVC.csproj",
       "projectName": "BookShopMVC",
-      "projectPath": "D:\\.Net\\BookShop\\BookShopMVC\\BookShopMVC.csproj",
+      "projectPath": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\BookShopMVC.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "D:\\.Net\\BookShop\\BookShopMVC\\obj\\",
+      "outputPath": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -9900,11 +9900,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\.Net\\BookShop\\BookShopMVC.DataAccess\\BookShopMVC.DataAccess.csproj": {
-              "projectPath": "D:\\.Net\\BookShop\\BookShopMVC.DataAccess\\BookShopMVC.DataAccess.csproj"
+            "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC.DataAccess\\BookShopMVC.DataAccess.csproj": {
+              "projectPath": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC.DataAccess\\BookShopMVC.DataAccess.csproj"
             },
-            "D:\\.Net\\BookShop\\BookShopMVC.Utility\\BookShopMVC.Utility.csproj": {
-              "projectPath": "D:\\.Net\\BookShop\\BookShopMVC.Utility\\BookShopMVC.Utility.csproj"
+            "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC.Utility\\BookShopMVC.Utility.csproj": {
+              "projectPath": "D:\\.Net\\BookShopProject\\BookShop\\BookShopMVC.Utility\\BookShopMVC.Utility.csproj"
             }
           }
         }
