@@ -7,7 +7,7 @@
     @if (SignInManager.IsSignedIn(User))
     {
         <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle text-white" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            <a class="nav-link dropdown-toggle text-white" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" id="aurora-text">
                 <i class="bi bi-person-fill me-1 fs-5"></i>@UserManager.GetUserName(User)
             </a>
             <ul class="dropdown-menu">
@@ -33,10 +33,10 @@
     else
     {
         <li class="nav-item">
-            <a class="nav-link text-white" id="register" asp-area="Identity" asp-page="/Account/Register">Đăng kí</a>
+            <a class="nav-link text-white" id="aurora-text" asp-area="Identity" asp-page="/Account/Register">Đăng kí</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link text-white" id="login" asp-area="Identity" asp-page="/Account/Login">Đăng nhập</a>
+            <a class="nav-link text-white" id="aurora-text" asp-area="Identity" asp-page="/Account/Login">Đăng nhập</a>
         </li>
     }
 </ul>

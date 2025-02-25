@@ -28,7 +28,7 @@
 
                         <div class="card-body pb-0">
                             <div class="pl-1">
-                                <p class="card-title mb-0 text-black opacity-75 text-center fs-5">@product.Title</p>
+                                <p class="card-title mb-0 text-black opacity-75 text-center fs-5 text-truncate">@product.Title</p>
                                 <p class="card-title mb-0 text-secondary text-center fs-6">@product.Author</p>
                             </div>
                             <div class="pl-1">
@@ -56,3 +56,4 @@
         </div>
     }
 </div>
+@await Component.InvokeAsync("Footer")

@@ -75,27 +75,22 @@
                     <span class="fw-bold">Total:</span><span id="total">@Model.Total.ToString("c")</span>
                 </div>
             </div>
+                <div class="text-center">
+                    <a class="btn btn-primary mt-5" asp-action="Summary">
+                        Đến trang thanh toán
+                    </a>
+                </div>
+        }
+        else
+        {
+            <div class="text-left">
+                <a class="btn btn-primary mt-5" asp-controller="Home" asp-action="Index">
+                    Quay về trang chủ
+                </a>
+            </div>
         }
     </div>
 </div>
-
-@if (Model.Items.Any())
-{
-    <div class="text-center">
-        <a class="btn btn-primary mt-5" asp-action="Summary">
-            Đến trang thanh toán
-        </a>
-    </div>
-}
-else{
-    <div class="text-left">
-        <a class="btn btn-primary mt-5" asp-controller="Home" asp-action="Index">
-            Quay về trang chủ
-        </a>
-    </div>
-}
-
-
 @section Scripts {
     <script src="~/js/cart.js"></script>
 }

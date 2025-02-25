@@ -26,6 +26,17 @@ CultureInfo.DefaultThreadCurrentUICulture = cultureInfo;
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
+builder.Services.AddDistributedMemoryCache(); // Lưu Session trong bộ nhớ
+builder.Services.AddSession(options =>
+{
+    options.IdleTimeout = TimeSpan.FromMinutes(30); // Thời gian hết hạn Session
+    options.Cookie.HttpOnly = true;
+    options.Cookie.IsEssential = true;
+});
+
+
+
+builder.Services.AddSingleton<VNPayService>();
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")),
     ServiceLifetime.Scoped
@@ -76,6 +87,7 @@ if (!app.Environment.IsDevelopment())
     app.UseHsts();
 }
 
+app.UseSession();
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 

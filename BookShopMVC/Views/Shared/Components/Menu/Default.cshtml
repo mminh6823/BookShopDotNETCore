@@ -6,7 +6,7 @@
 <header>
     <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-primary bg-dark text-white border-bottom box-shadow mb-5">
         <div class="container-fluid">
-            <a class="navbar-brand text-white" asp-area="" asp-controller="Home" asp-action="Index" id="aurora-text">Book Shop</a>
+            <a class="navbar-brand text-white" asp-area="" asp-controller="Home" asp-action="Index" id="aurora-text">Trang chủ</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                     aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -14,7 +14,7 @@
             <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                 <ul class="navbar-nav me-auto">
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle text-white" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        <a class="nav-link dropdown-toggle text-white" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" id="aurora-text">
                             Thể loại
                         </a>
                         <ul class="dropdown-menu">
@@ -28,7 +28,7 @@
                     @if (User.IsInRole(StaticDetails.Role_Admin))
                     {
                         <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle text-white" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            <a class="nav-link dropdown-toggle text-white" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" id="aurora-text">
                                 Quản lý 
                             </a>
                             <ul class="dropdown-menu">
@@ -50,7 +50,7 @@
                     @if (User.Identity.IsAuthenticated)
                     {
                         <li class="nav-item">
-                            <a asp-area="Customer" asp-controller="ShoppingCart" asp-action="Index" class="nav-link text-white position-relative">
+                            <a asp-area="Customer" asp-controller="ShoppingCart" asp-action="Index" class="nav-link text-white position-relative" id="aurora-text">
                                 <i class="bi bi-cart-fill me-1 text-white"></i>
                                 Giỏ hàng <span id="cart-amount"></span>
                             </a>

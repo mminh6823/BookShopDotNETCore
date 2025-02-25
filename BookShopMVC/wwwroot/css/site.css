@@ -46,6 +46,38 @@ body {
         background-position: 0% 50%;
     }
 }
+.card {
+    height: 100%; 
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; 
+}
+
+.card-body {
+    flex-grow: 1; 
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+
+.card-title {
+    min-height: 50px; 
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2; 
+    -webkit-box-orient: vertical;
+}
+
+.card-body .pl-1 {
+    text-align: center; 
+}
+
+.card .d-flex {
+    margin-top: auto;
+}
+
 
 
 
