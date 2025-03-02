@@ -11,7 +11,7 @@ BookShop là một nền tảng thương mại điện tử giúp người dùng
 🔹 Công nghệ sử dụng:
 
 Backend: ASP.NET Core MVC 8, Entity Framework Core, SQL Server
-Frontend: Razor Pages, Bootstrap, jQuery, AJAX
+Frontend: Razor Pages, Bootstrap, AJAX
 Xác thực & phân quyền: Identity Framework
 ---------Screenshot---------
 
